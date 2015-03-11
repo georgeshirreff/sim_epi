@@ -1,1 +1,2 @@
-# sim_epi\nfiles from simulated epidemic and corresponding phylogeny
+# sim_epi
+# files from simulated epidemic and corresponding phylogeny
